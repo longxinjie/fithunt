@@ -1,0 +1,15 @@
+1. Home: /home
+    Display text "Welcome to my store"
+    
+2. Products: /products
+    Navigate to different URLs to view your desired products
+    /products/shirts
+    /products/jeans
+    /products/shoes
+
+    Edit in a way that when we go to /products/shirts, display text:
+        "Here is our custom design shirts"
+
+3. Review: /review
+    Come up soon
+
